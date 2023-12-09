@@ -1,5 +1,5 @@
 # Modern Nomad App
-## Travel Planning React App
+## Travel Planning App
 
 The Modern Nomad App is a revolutionary travel planning web application designed to empower modern nomads in organizing their journeys seamlessly. This user-friendly app offers a comprehensive suite of tools to streamline travel planning, making it a go-to companion for individuals with a passion for exploration.
 
